@@ -1,6 +1,6 @@
 name: React Native Android e2e tests
 on: workflow_dispatch
-
+函数链接
 env:
   STRIPE_PUBLISHABLE_KEY: ${{ secrets.TEST_STRIPE_PUBLISHABLE_KEY }}
   STRIPE_SECRET_KEY: ${{ secrets.TEST_STRIPE_SECRET_KEY }}
